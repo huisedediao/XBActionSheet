@@ -1,8 +1,6 @@
 # XBActionSheet
 自定义底部菜单
 
-### 安装
-pod 'XBActionSheet'
 
 <br/>
 
