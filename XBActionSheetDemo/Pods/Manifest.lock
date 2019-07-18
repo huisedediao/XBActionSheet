@@ -1,0 +1,28 @@
+PODS:
+  - Masonry (1.1.0)
+  - XBAlertViewBase (0.0.1):
+    - XBCategorys
+  - XBButton (0.0.4):
+    - Masonry
+  - XBCategorys (0.0.1)
+
+DEPENDENCIES:
+  - XBAlertViewBase
+  - XBButton
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+    - XBAlertViewBase
+    - XBButton
+    - XBCategorys
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  XBAlertViewBase: f8b991c761df6c2d73141e94c64444507ef89b68
+  XBButton: 8a8c7da988080fd84e0b49dafffafdb9c2c2a6fc
+  XBCategorys: 3dbe5d339ad622c8514c5bd8adb146fa2c27851a
+
+PODFILE CHECKSUM: d80e732df4f9fab5c63d6b08af4f62d489b10557
+
+COCOAPODS: 1.7.4
